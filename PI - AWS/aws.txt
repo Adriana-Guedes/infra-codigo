@@ -1,0 +1,24 @@
+ALGUMAS INFORMAÇÕES DA AWS
+
+PAR DE CHAVES
+
+AWS Access Key ID
+AKIAV4YTWNKPEESZ7WO3
+
+
+AWS Secret Access Key 
+B/pgBURsoS1d3Dc1pofZa5Gs00keCDIqCv/ULF2Z
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+sa-east-1 - tudo tem que ser criado nessa região
+
+
+URL DE ACESSO E SENHA DA AWS
+
+https://405378853534.signin.aws.amazon.com/console
+usuario: G4PI_I
+Grupo2023sucesso
