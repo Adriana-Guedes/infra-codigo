@@ -1,3 +1,6 @@
-# Ansible
+# rodar playbook no ansible
 
-Ansible é uma ferramenta de TI de código aberto para gerenciar, automatizar, configurar servidores e, implantar aplicativos, a partir de uma localização central. Ele inclui sua própria linguagem declarativa para descrever a configuração do sistema
+ansible-playbook -i hots provisionar.yml -u ubuntu --private-key /home/adrianaalves/.ssh/digital_booking
+
+# acesso ssh da maquina
+ssh -i /home/adrianaalves/.ssh/digital_booking ubuntu@ec2-..... .computador-1.amazonaws.com
